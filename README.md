@@ -5,7 +5,7 @@
 - building [Monitar.io](https://monitar.io/)
 
 
-For a bigger overview, please, visit my [personal website](https://amureki.me/).
+For a bigger overview, visit my [personal website](https://amureki.me/).
 
-Best,
+Best,  
 Rust
